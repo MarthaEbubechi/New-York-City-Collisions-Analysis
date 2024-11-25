@@ -80,7 +80,7 @@ The slicer allows you to navigate more analysis of the dashboard that are not cu
 ### Question3: Judging by the top 5 streets where most accidents occurred;
 - Most accidents occurrance were reported at Belt parkway by 29%, followed by Broadway at 21%, while Brooklyn Queens Expressway,Long Island Expressway and Atlantic Avenue each recorded the lowest accidents occurrance report by 17% respectively.
 
-### Question4: Judging by the top 5 most common contributing factor for the accidents reported in this sample
+### Question4: Judging by the top 5 most common contributing factor for the accidents reported in this sample;
 - The most common contributing factor for the accidents reported in this sample were not specified.
 - But the 2nd most common contributing factor was driver inattention/distraction, followed by failure to yield right of way, following too closely and lastly passing or lane usage improper.
 
